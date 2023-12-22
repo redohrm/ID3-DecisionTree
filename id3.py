@@ -2,9 +2,6 @@
 
 # PROGRAMMER: Ruth Dohrmann
 # PROGRAM: id3.py
-# DUE DATE: 11/15/23
-# COURSE: Intro Artificial Intelligence (CSCI-4350-001)
-# INSTRUCTOR: Dr. Joshua Phillips
 # 
 # Description: This program creates an ID3 decision tree to classify a set of input
 # training data and then reports the classification performance on a separate set of 
