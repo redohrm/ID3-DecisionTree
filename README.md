@@ -1,4 +1,4 @@
-# ID3-DecisionTree
+# Supervised Learning: ID3-DecisionTree
 Implements the ID3 algorithm to classify objects with continuous attribute values.
 
 This project utilizes the ID3 algorithm to build a decision tree. Tests were run to determine the accuracy of the classification 
